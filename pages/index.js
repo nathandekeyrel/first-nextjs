@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import Counter from '../components/Counter';
-import Link from 'next/Link';
+import Link from 'next/link';
 import Github from "../components/Github";
 
 export default function Home() {
